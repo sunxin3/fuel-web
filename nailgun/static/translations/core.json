@@ -35,7 +35,7 @@
                 "success": "Success",
                 "error": "Error",
                 "see_logs": "See the logs",
-                "copyright": "Copyright © 2013-2015 Mirantis. All rights reserved.",
+                "copyright": "",
                 "version": "Version",
                 "change_password": "Change password",
                 "logout": "Logout",
@@ -87,7 +87,7 @@
                 "title": "Log In"
             },
             "statistics": {
-                "help_to_improve": "Help us to improve your experience by sending Mirantis information about the settings, features, and deployment actions when you use Mirantis OpenStack.",
+                "help_to_improve": "Help us to improve your experience by sending Lenovo information about the settings, features, and deployment actions when you use Lenovo OpenStack.",
                 "help_to_improve_community": "Help us to improve your experience by sending information about the settings, features, and deployment actions when you use Fuel and OpenStack.",
                 "learn_whats_collected": "Learn what's collected",
                 "statistics_user_info": "Note, that if you agree to send statistics, a new user under \"fuel_stats_user\" name will be added to your OpenStack environment. The fuel_stats_user will collect information about OpenStack workloads.",
@@ -129,10 +129,10 @@
                     "openstack_version": "OpenStack version info"
                 },
                 "setting_labels": {
-                    "send_anonymous_statistic": "Send usage statistics to Mirantis",
+                    "send_anonymous_statistic": "Send usage statistics to Lenovo",
                     "send_anonymous_statistic_community": "Send usage statistics",
-                    "send_user_info": "Identify my error reports so that Mirantis Support can assist me",
-                    "send_user_info_community": "Identify my error reports so that Mirantis Support can assist me",
+                    "send_user_info": "Identify my error reports so that Lenovo Support can assist me",
+                    "send_user_info_community": "Identify my error reports so that Lenovo Support can assist me",
                     "name": "Name",
                     "email": "Email",
                     "company": "Company"
@@ -144,19 +144,19 @@
                 }
             },
             "welcome_page": {
-                "title": "Welcome to Mirantis OpenStack",
+                "title": "Welcome to Lenovo OpenStack",
                 "title_community": "Welcome to Fuel and OpenStack",
                 "start_fuel": "Start Using Fuel",
                 "connect_now": "Connect Now",
                 "connect_later": "Connect Later",
                 "change_settings": "You can change your settings at any time by updating your user profile information.",
-                "thanks": "Thanks for helping to improve Mirantis OpenStack!",
+                "thanks": "Thanks for helping to improve Lenovo OpenStack!",
                 "thanks_community": "Thanks for helping to improve Fuel and OpenStack!",
                 "statistics_collector": "Web UI for collected statistics is under development and will be available at ",
-                "privacy_policy": "Usage stats will include your name, company and email once you login to your Mirantis account",
+                "privacy_policy": "Usage stats will include your name, company and email once you login to your Lenovo account",
                 "privacy_policy_link": "Read Privacy Policy",
                 "register": {
-                    "register_installation": "Connect this installation with your Mirantis account and get free support for next 30 days!",
+                    "register_installation": "Connect this installation with your Lenovo account and get free support for next 30 days!",
                     "link_text": "Register Now",
                     "create_account": "Create Account",
                     "retrieve_password": "Retrieve Password",
@@ -200,9 +200,9 @@
                 "irc_text": "If you have any questions, you can also reach out to developers on the IRC channel",
                 "log_text": "If you have encountered some bugs or errors, you may need to provide the support team with deployment and operational logs. You can download them all at once by clicking the button below.",
                 "contact_support": "Contact Support",
-                "register_fuel_title": "Connect Mirantis Account",
-                "register_fuel_content": "This will ensure that you recieve important notifications about issues and new versions of Mirantis products. In addition, you will recieve complementary access to our basic support services for the next 30 days!",
-                "product_registered_title": "Connect Mirantis Account",
+                "register_fuel_title": "Connect Lenovo Account",
+                "register_fuel_content": "This will ensure that you recieve important notifications about issues and new versions of Lenovo products. In addition, you will recieve complementary access to our basic support services for the next 30 days!",
+                "product_registered_title": "Connect Lenovo Account",
                 "product_registered_content": "This OpenStack installation is connected to",
                 "master_node_uuid": "Master Node UUID",
                 "manage_account": "Manage Account",
@@ -217,9 +217,9 @@
                 "save_changes": "Save Changes",
                 "documentation_link": "Go to Documentation",
                 "community_title": "Fuel Documentation",
-                "mirantis_title": "Mirantis OpenStack Documentation",
+                "mirantis_title": "Lenovo OpenStack Documentation",
                 "community_text": "The page contains the most recent Fuel documentation. You can read it online or download in PDF.",
-                "mirantis_text": "The page contains the most recent Mirantis OpenStack documentation. You can read it online or download in PDF."
+                "mirantis_text": "The page contains the most recent Lenovo OpenStack documentation. You can read it online or download in PDF."
             },
             "release_page": {
                 "title": "Releases",
@@ -608,7 +608,7 @@
                     "network": {
                         "title": "Networking Setup",
                         "description": "Choose the private (guest) network configuration. The choice you make here cannot be changed after you finish the wizard. More information see the ",
-                        "description_link": "Mirantis OpenStack Planning Guide for Network Topology",
+                        "description_link": "Lenovo OpenStack Planning Guide for Network Topology",
                         "release_alert": "Neutron is not supported in __NameAndRelease.release_name__",
                         "hypervisor_alert": "Neutron with VLAN or GRE segmentaion is not available with __Compute.vcenter__ as a compute option.",
                         "nova_network": "(DEPRECATED) Legacy Networking (nova-network)",
@@ -774,7 +774,7 @@
                 "retrieve_password": {
                     "title": "Retrieve Password",
                     "send_new_password": "Send New Password",
-                    "submit_email": "Please submit your Mirantis Account Email and we will send your new password.",
+                    "submit_email": "Please submit your Lenovo Account Email and we will send your new password.",
                     "done": "Done.",
                     "check_email": "Please check your email for new password"
                 }
@@ -1335,7 +1335,7 @@
                 "success": "成功",
                 "error": "エラー",
                 "see_logs": "ログを参照してください",
-                "copyright": "著作権 © 2013-2014 Mirantis. 無断複写·転載禁じ"
+                "copyright": ""
             },
             "node_details": {
                 "cpu": "CPU",
@@ -1401,7 +1401,7 @@
                 "log_text": "いくつかのバグやエラーが発生した場合は、導入と操作ログとサポートチームを提供する必要があります。下のボタンをクリックすることにより、一度にすべてをダウンロードすることができます。",
                 "contact_support": "お問い合わせ·サポート",
                 "register_fuel_title": "Fuelに登録",
-                "register_fuel_content": "登録すると、問題やMirantis製品の新しいバージョンに関する重要な通知を受け取ることが保証されます。さらに、次の30日間、基本的なサポート·サービスを得えます！",
+                "register_fuel_content": "登録すると、問題やLenovo製品の新しいバージョンに関する重要な通知を受け取ることが保証されます。さらに、次の30日間、基本的なサポート·サービスを得えます！",
                 "download_diagnostic_snapshot_text": "診断スナップショットをダウンロード",
                 "gen_logs_snapshot_text": "ログスナップショットを生成しています...",
                 "gen_diagnostic_snapshot_text": "診断スナップショットを生成します",
@@ -1794,7 +1794,7 @@
                 "success": "성공",
                 "error": "오류",
                 "see_logs": "로그를 참조하십시오",
-                "copyright": "저작권 © 2013-2014 Mirantis. 판권소유"
+                "copyright": ""
             },
             "node_details": {
                 "cpu": "CPU",
@@ -1860,7 +1860,7 @@
                 "log_text": "버그나 오류가 발생한 경우, 배치와운영로그를 지원팀에 제공할수있습니다. 아래버튼을 클릭함으로서 한번에 모두를 다운로드할수있습니다.",
                 "contact_support": "지원 문의",
                 "register_fuel_title": "Fuel 등록",
-                "register_fuel_content": "등록은 문제와 Mirantis 제품의 새로운 버전에 대한 중요한 알림을 받을 수 있도록합니다. 또한, 다음 30일동안 기본적인 지원 서비스를 받을기회를 얻을 수 있습니다!",
+                "register_fuel_content": "등록은 문제와 Lenovo 제품의 새로운 버전에 대한 중요한 알림을 받을 수 있도록합니다. 또한, 다음 30일동안 기본적인 지원 서비스를 받을기회를 얻을 수 있습니다!",
                 "download_diagnostic_snapshot_text": "진단 스냅샷을 다운로드",
                 "gen_logs_snapshot_text": "로그 스냅샷 생성중...",
                 "gen_diagnostic_snapshot_text": "진단 스냅샷을 생성",
