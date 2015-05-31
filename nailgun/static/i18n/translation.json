@@ -34,7 +34,7 @@
                 "success": "Success",
                 "error": "Error",
                 "see_logs": "See the logs",
-                "copyright": "Copyright © 2013-2015 Mirantis. All rights reserved.",
+                "copyright": " ",
                 "version": "Version",
                 "change_password": "Change password",
                 "logout": "Logout"
@@ -1259,7 +1259,7 @@
                 "success": "成功",
                 "error": "エラー",
                 "see_logs": "ログを参照してください",
-                "copyright": "著作権 © 2013-2014 Mirantis. 無断複写·転載禁じ"
+                "copyright": " "
             },
             "node_details": {
                 "cpu": "CPU",
@@ -1741,7 +1741,7 @@
                 "success": "성공",
                 "error": "오류",
                 "see_logs": "로그를 참조하십시오",
-                "copyright": "저작권 © 2013-2014 Mirantis. 판권소유"
+                "copyright": " "
             },
             "node_details": {
                 "cpu": "CPU",
